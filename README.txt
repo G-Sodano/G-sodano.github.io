@@ -1,33 +1,40 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Giovanni Sodano's Personal Portfolio Website
 
+## Overview  
+This project is a personal portfolio website developed to showcase my academic work, projects, and experiences as a Kinesiology student at the University of Calgary. The website highlights my background, skills, and interests while also demonstrating my ability to use web development tools and version control.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## Purpose  
+The purpose of this project is to create a professional online presence where users can learn more about me, view my work, and explore different components of my assignments. It also demonstrates my understanding of GitHub workflows and basic web development.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Features  
+- About Me section  
+- Experience section (work and volunteer roles)  
+- Contact me section
+- Project section (Scratch Maze Game and Python coded data Analysis)  
+- Navigation sidebar for easy access between sections  
+- Clean and responsive layout  
 
-(* = not included)
+## Tools Used  
+- HTML5  
+- CSS3 (template styling)  
+- Python (used through Kaggle for data analysis and visualization)  
+- Scratch MIT (game development)  
+- Git & GitHub for version control and deployment  
+- GitHub Pages for hosting the website  
 
-AJ
-aj@lkn.io | @ajlkn
+## How to Navigate  
+- Use the sidebar on the left to move between sections:  
+  - Home – Landing page  
+  - About Me/project – Personal overview and projects 
+  - My Experience – Work and volunteer experience  
+  - Get in Touch – Contact information  
+- Click buttons such as "Learn More" to explore additional pages in project section  
 
+## Future Improvements  
+- Add more detailed project descriptions  
+- Improve styling and interactivity  
+- Expand portfolio with additional academic and personal projects  
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Author  
+Giovanni Sodano  
+BSc in Kinesiology – University of Calgary  
