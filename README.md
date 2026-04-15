@@ -41,4 +41,4 @@ The purpose of this project is to create a professional online presence where us
 ## Author  
 Giovanni Sodano  
 BSc in Kinesiology – University of Calgary
-**This website was built with the assistance of ChatGPT**
+- **This website was built with the assistance of ChatGPT**
