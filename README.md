@@ -20,8 +20,8 @@ The purpose of this project is to create a professional online presence where us
 ## Tools Used  
 - HTML5  
 - CSS3 (template styling)  
-- Python (used through Kaggle for data analysis and visualization)  
-- Scratch MIT (game development)  
+- Python language (used through Kaggle for data analysis)  
+- Scratch MIT (game development/Maze game)  
 - Git & GitHub for version control and deployment  
 - GitHub Pages for hosting the website  
 
@@ -40,4 +40,5 @@ The purpose of this project is to create a professional online presence where us
 
 ## Author  
 Giovanni Sodano  
-BSc in Kinesiology – University of Calgary  
+BSc in Kinesiology – University of Calgary
+**This website was built with the assistance of ChatGPT**
