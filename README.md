@@ -3,6 +3,9 @@
 ## Overview  
 This project is a personal portfolio website developed to showcase my academic work, projects, and experiences as a Kinesiology student at the University of Calgary. The website highlights my background, skills, and interests while also demonstrating my ability to use web development tools and version control.
 
+**Here is a link to my website:** https://g-sodano.github.io/index.html
+
+
 ## Purpose  
 The purpose of this project is to create a professional online presence where users can learn more about me, view my work, and explore different components of my assignments. It also demonstrates my understanding of GitHub workflows and basic web development.
 
